@@ -48,8 +48,8 @@ img-gallery-html-css/
 
 ## 📸 Sneak Peek
 
-> Add a screenshot called `screenshot.png` in the docs folder and embed it below 👇  
-> `![Screenshot](./docs/screenshot.png)`
+
+> ![Image Gallery Project Screenshot](docs/Screenshot.png)
 
 ---
 
